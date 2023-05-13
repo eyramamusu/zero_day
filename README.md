@@ -1,2 +1,1 @@
-# My Project
-This is my first project using git on my computer.
+This is my first git project on my computer
